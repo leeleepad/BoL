@@ -2,8 +2,6 @@
 
 Script by spyk for Anivia.
 
-BaguetteAnivia.lua
-
 Github link : https://github.com/spyk1/BoL/blob/master/BaguetteAnivia/BaguetteAnivia.lua
 
 Forum Thread : http://forum.botoflegends.com/topic/87964-beta-baguette-anivia/
